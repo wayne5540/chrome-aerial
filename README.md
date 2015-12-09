@@ -17,8 +17,8 @@ Play a Apple TV Aerial video in your chrome new tab.
 
 ## Credits
 
-Videos: [Apple](www.apple.com)
-Icons: [Nova Free Icon](http://www.webalys.com/nova/free-icons.html)
+* Videos: [Apple](www.apple.com)
+* Icons: [Nova Free Icon](http://www.webalys.com/nova/free-icons.html)
 
 ## TODO
 
